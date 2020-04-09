@@ -1,3 +1,4 @@
+// Template strings
 const nome = "Marcelo";
 const concatenacao = "Olá " + nome + "!";
 
