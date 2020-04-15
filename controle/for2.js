@@ -14,4 +14,4 @@ const pessoa = {
 for(let atributo in pessoa) {
     console.log(`${atributo} = ${pessoa[atributo]}`)
 }
-// Testando outro for
+// Testando outro 
